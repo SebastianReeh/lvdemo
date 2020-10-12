@@ -1,1 +1,6 @@
 Version 1
+<<<<<<< HEAD
+Konflikt 2
+=======
+Konflikt
+>>>>>>> main
