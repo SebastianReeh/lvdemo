@@ -7,3 +7,5 @@ Konflikt 2
 =======
 Konflikt
 >>>>>>> main
+
+Konflikt 3
